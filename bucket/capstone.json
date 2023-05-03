@@ -1,18 +1,18 @@
 {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "description": "Capstone disassembly/disassembler framework",
     "homepage": "https://github.com/capstone-engine/capstone",
     "license": "BSD-3-Clause-Clear",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/capstone-engine/capstone/releases/download/4.0.1/capstone-4.0.1-win64.zip",
-            "hash": "74e255f7eb72996b6a6fa807af03a016578c9453fb455a32d7a662b3fb8f5b37",
-            "extract_dir": "capstone-4.0.1-win64"
+            "url": "https://github.com/capstone-engine/capstone/releases/download/4.0.2/capstone-4.0.2-win64.zip",
+            "hash": "eae21d2a5baeed5de40ff07bd4baca5195cbf63b16919bf4e0ca2e4a4eb14bbc",
+            "extract_dir": "capstone-4.0.2-win64"
         },
         "32bit": {
-            "url": "https://github.com/capstone-engine/capstone/releases/download/4.0.1/capstone-4.0.1-win32.zip",
-            "hash": "875d25594a64676d340f12dc466d6b7d7df80ea97b7c53528b42df74ef6d3cc2",
-            "extract_dir": "capstone-4.0.1-win32"
+            "url": "https://github.com/capstone-engine/capstone/releases/download/4.0.2/capstone-4.0.2-win32.zip",
+            "hash": "3bfbfe975eafc95ebf1b756dfcdd10c8d88fa244099cbe9c055241b48e0a8a17",
+            "extract_dir": "capstone-4.0.2-win32"
         }
     },
     "bin": "cstool.exe",
