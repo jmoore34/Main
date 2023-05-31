@@ -1,5 +1,5 @@
 {
-    "version": "1.4.10173",
+    "version": "1.4.11071",
     "description": "A PowerShell Module for the Windows Package Manager Client.",
     "homepage": "https://github.com/microsoft/winget-cli/tree/master/src/PowerShell/Microsoft.WinGet.Client",
     "license": "MIT",
